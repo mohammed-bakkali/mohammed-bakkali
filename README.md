@@ -1,9 +1,10 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17353
-Fork on GitHub5003
 <h1 align="center">Hi 👋, I'm Mohammed Bakkali</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Morocco</h3>
+
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+
+
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-bakkali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-bakkali" /> </p>
 
@@ -11,17 +12,7 @@ Fork on GitHub5003
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **enhancing my portfolio website.**
-
-- 🌱 I’m currently learning **the latest web development technologies.**
-
-- 👯 I’m looking to collaborate on **collaborate on open-source projects.**
-
-- 🤝 I’m looking for help with **improving my coding skills.**
-
 - 👨‍💻 All of my projects are available at [https://mohammed-bakkali.github.io/Portflio/](https://mohammed-bakkali.github.io/Portflio/)
-
-- 💬 Ask me about **web development, coding, or tech in general.**
 
 - 📫 How to reach me **bakkali.mohammed.personal@gmail.com**
 
