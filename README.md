@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Bakkali</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Morocco</h3>
 
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
-
-
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-bakkali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-bakkali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-bakkali" alt="mohammed-bakkali" /></a> </p>
