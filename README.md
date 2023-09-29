@@ -10,7 +10,7 @@ I'm Mohammed Bakkali, a Web and Mobile Developer based in Tanger, Morocco. Keep 
 ## 💼 About Me
 
 - **Name**: Mohammed Bakkali
-- **Role**: Web and Mobile Developer
+- **Role**: Développeur Web et Mobile
 - **Location**: Tanger, Morocco
 
 **Contact**:
@@ -18,29 +18,56 @@ I'm Mohammed Bakkali, a Web and Mobile Developer based in Tanger, Morocco. Keep 
 - **Email**: mohammedbakkali807@gmail.com
 - **Phone**: +212 0605623477
 
-## 💻 Skills
+## 💻 Experiences Professionelles
 
-- Front-End: HTML, CSS, JavaScript, PHP
-- Database: MySQL, SQL
-- Frameworks: Bootstrap, jQuery, AJAX
-- Design and Modeling: Design Thinking, UML, Merise
+**HK-multimedia - Stage en développement web** (Juillet 2023 - Août 2023)
 
-## 🌐 Languages
+- Application de gestion de stock pour un restaurant
+- Technologies utilisées: HTML, CSS, Bootstrap, JavaScript, PHP, MVC, MySQL, SQL, jQuery, AJAX
 
-- Arabic (Native)
-- English (School Level)
-- French (School Level)
+**Portfolio** (2022-2023)
 
-## 📚 Portfolio
+- Technologies utilisées: HTML, CSS, JavaScript, PHP, MySQL, SQL
+
+## 🌐 Education
+
+- **Niveau Baccalauréat** (2021-2023) - Lycée Mahdi Engra, Tanger
+- **Certificat en développement web** (2022-2023) - Centre digital SOLICODE & SIMPLON
+- **Certificat en développement Mobile** (2023-2024) - Centre digital SOLICODE
+
+## 🛠️ Compétences Techniques
+
+### Front-End
+
+- Langages et Frameworks: HTML, CSS, JavaScript, PHP
+- Conception et Modélisation: Design Thinking, UML, Merise
+
+### Database
+
+- MySQL, SQL
+
+### Back-End
+
+- Langages et Frameworks: HTML, CSS, JavaScript, PHP, MVC, MySQL, SQL, jQuery, AJAX
+
+## 🌍 Langues
+
+- Arabe (Maternelle)
+- Anglais (Niveau Scolaire)
+- Français (Niveau Scolaire)
+
+## 🎯 Soft Skills
+
+- Teamwork skills
+- Time management
+- Problem-solving skills
+- Willingness to learn
+
+## 🎶 Loisirs
+
+- La musique
+- Coding
+- Voyage
 
 Check out my portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portflio/)
 
-## What I'm Listening To
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11145527221&unique={true|1|on|yes})
-
-## The Daily Quote
-
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
-
-<p>- Napoleon Hill</p>
