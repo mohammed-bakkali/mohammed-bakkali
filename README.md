@@ -43,7 +43,7 @@ Here are some of the projects I've worked on:
 
 ## 📬 Get in Touch
 
-📧 You can reach me at [your.email@example.com](mailto:your.mohammedbakkali807@gmail.com) 
+📧 You can reach me at [your.mohammedbakkali807@gmail.com](mailto:your.mohammedbakkali807@gmail.com) 
 
 Let's collaborate on exciting projects and make the web a better place together!
 
