@@ -5,7 +5,7 @@
 
 Hello 👋
 
-I'm Mohammed Bakkali, a Web and Mobile Developer based in Tanger, Morocco. Keep scrolling to learn more about me!
+I'm Mohammed Bakkali, full-stack developer based in Tanger, Morocco. Keep scrolling to learn more about me!
 
 <a href="https://github.com/mohammed-bakkali">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
