@@ -24,7 +24,7 @@ I'm Mohammed Bakkali, full-stack developer based in Tanger, Morocco. Keep scroll
     <img height="225" src="https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/mohammed-bakkali">
-    <img height="225" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact"/>
+    <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact"/>
   </a>
 </div>
 
