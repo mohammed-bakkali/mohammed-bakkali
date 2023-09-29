@@ -19,12 +19,15 @@ I'm Mohammed Bakkali, full-stack developer based in Tanger, Morocco. Keep scroll
 </p>
 
 
-<a href="https://github.com/mohammed-bakkali">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/mohammed-bakkali">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact"/>
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/mohammed-bakkali">
+    <img height="225" src="https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/mohammed-bakkali">
+    <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact"/>
+  </a>
+</div>
+
   
 ## :sassy_man: What I Do  
 
