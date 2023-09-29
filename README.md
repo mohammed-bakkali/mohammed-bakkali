@@ -20,12 +20,9 @@ I'm Mohammed Bakkali, full-stack developer based in Tanger, Morocco. Keep scroll
 
 
 
-<a href="https://github.com/mohammed-bakkali">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <div style="display: flex; flex-direction: column;">
-    <img height="112" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact"/>
-  </div>
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/mohammed-bakkali)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact)](https://github.com/mohammed-bakkali)
+
 
 
 
