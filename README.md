@@ -45,7 +45,10 @@ I'm Mohammed Bakkali, a Web and Mobile Developer based in Tanger, Morocco. Keep 
 Check out my portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portflio/)
 ## What I'm listening to
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11145527221&unique={true|1|on|yes})
+[Listen to my Spotify playlist](https://open.spotify.com/playlist/64XWElwXz3Ol5a5IOxxopE)
+
+
+
 
 ## The Daily Quote
 
