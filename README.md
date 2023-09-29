@@ -26,7 +26,25 @@ I'm Mohammed Bakkali, full-stack developer based in Tanger, Morocco. Keep scroll
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact"/>
 </a>
 
+### What I Do
 
+- 💻 I'm proficient in [list programming languages and technologies you're skilled in].
+- 🌐 I enjoy working on both the front-end and back-end of web applications.
+- 🎨 I have a keen eye for design and enjoy creating user-friendly interfaces.
+
+### My Projects
+
+Here are some of the projects I've worked on:
+
+- [Project 1](link-to-project-1): Brief description of the project.
+- [Project 2](link-to-project-2): Brief description of the project.
+- [Project 3](link-to-project-3): Brief description of the project.
+
+### Get in Touch
+
+📫 You can reach me at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/) and [GitHub](https://github.com/yourgithubusername).
+
+Let's collaborate on exciting projects and make the web a better place together!
 
 
 ## 💼 Skills
