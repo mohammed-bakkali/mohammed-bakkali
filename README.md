@@ -9,11 +9,11 @@
 
 Hello 👋
 
-I'm Mohammed Bakkali, full-stack developer based in Tanger, Morocco. Keep scrolling to learn more about me!
+I'm Mohammed Bakkali, Web developer based in Tanger, Morocco. Keep scrolling to learn more about me!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Web+Developer">
   </a>
 </p>
 
