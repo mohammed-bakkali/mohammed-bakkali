@@ -9,7 +9,7 @@
 
 Hello 👋
 
-I'm Mohammed Bakkali, Web developer based in Tanger, Morocco. Keep scrolling to learn more about me!
+I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling to learn more about me!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -28,8 +28,8 @@ I'm Mohammed Bakkali, Web developer based in Tanger, Morocco. Keep scrolling to 
   
 ## :sassy_man: What I Do  
 
-- 💻 I'm proficient in [list programming languages and technologies you're skilled in].
-- 🌐 I enjoy working on both the front-end and back-end of web applications.
+- 💻 I'm proficient in [HTML CSS JAVASCRIPT REACT JS NEXT JS NODE JS ...].
+- 🌐 I enjoy working on web applications' front-end and back-end.
 - 🎨 I have a keen eye for design and enjoy creating user-friendly interfaces.
 
 ## 🚀 My Projects
@@ -44,7 +44,7 @@ Here are some of the projects I've worked on:
 
 📧 You can reach me at [your.mohammedbakkali807@gmail.com](mailto:your.mohammedbakkali807@gmail.com) 
 
-Let's collaborate on exciting projects and make the web a better place together!
+Let's collaborate on exciting projects and make the web a better place!
 
 
 ## 💼 Skills
