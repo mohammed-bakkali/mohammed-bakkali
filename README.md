@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-bakkali)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/YourUsername)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsiteColor?style=for-the-badge&logo=web&logoColor=white)](https://mohammed-bakkali.github.io/Portflio/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsiteColor?style=for-the-badge&logo=web&logoColor=white)](https://mohammed-bakkali.netlify.app/)
 
 
 
