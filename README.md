@@ -1,11 +1,8 @@
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-bakkali-4821a123a/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-bakkali)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/YourUsername)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsiteColor?style=for-the-badge&logo=web&logoColor=white)](https://mohammed-bakkali.netlify.app/)
-
-
 
 Hello 👋
 
@@ -17,18 +14,12 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
   </a>
 </p>
 
-
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/mohammed-bakkali)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact)](https://github.com/mohammed-bakkali)
 
+## :sassy_man: What I Do
 
-
-
-  
-## :sassy_man: What I Do  
-
-- 💻 I'm proficient in [HTML CSS JAVASCRIPT REACT JS NEXT JS NODE JS ...].
+- 💻 I'm proficient in [HTML, CSS, JavaScript, React JS, Next JS, Node JS, ...].
 - 🌐 I enjoy working on web applications' front-end and back-end.
 - 🎨 I have a keen eye for design and enjoy creating user-friendly interfaces.
 
@@ -36,16 +27,15 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
 
 Here are some of the projects I've worked on:
 
-- [Project 1]([link-to-project-1](https://github.com/mohammed-bakkali/E-commerce-App)): Fully functional e-commerce website using React JS.
-- [Project 2](link-to-project-2): Blog App built with MERN stack
+- [Project 1](https://github.com/mohammed-bakkali/E-commerce-App): Fully functional e-commerce website using React JS.
+- [Project 2](link-to-project-2): Blog App built with MERN stack.
 - [Project 3](link-to-project-3): Brief description of the project.
 
 ## 📬 Get in Touch
 
-📧 You can reach me at [your.mohammedbakkali807@gmail.com](mailto:your.mohammedbakkali807@gmail.com) 
+📧 You can reach me at [mohammedbakkali807@gmail.com](mailto:mohammedbakkali807@gmail.com).
 
 Let's collaborate on exciting projects and make the web a better place!
-
 
 ## 💼 Skills
 
@@ -71,22 +61,16 @@ Let's collaborate on exciting projects and make the web a better place!
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
-
-
-
-
-
 Check out my portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portflio/)
+
 ## What I'm listening to
 
 [Listen to my Spotify playlist](https://open.spotify.com/playlist/64XWElwXz3Ol5a5IOxxopE)
+**
+## 📜 The Daily Quote
 
+<p>"The only way to do great work is to love what you do."</p>
 
+<p>- Steve Jobs</p>
 
-
-## The Daily Quote
-
-<p>It takes half your life before you discover life is a do-it-yourself project.</p>
-
-<p>- Napoleon Hill</p>
+<p>- Napoleon Hill</p>**
