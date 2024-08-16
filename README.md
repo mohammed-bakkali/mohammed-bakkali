@@ -73,4 +73,3 @@ Check out my portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portflio/
 
 <p>- Steve Jobs</p>
 
-<p>- Napoleon Hill</p>**
