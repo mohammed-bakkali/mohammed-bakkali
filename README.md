@@ -36,8 +36,8 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
 
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
+- [Project 1]([link-to-project-1](https://github.com/mohammed-bakkali/E-commerce-App)): Fully functional e-commerce website using React JS.
+- [Project 2](link-to-project-2): Blog App built with MERN stack
 - [Project 3](link-to-project-3): Brief description of the project.
 
 ## 📬 Get in Touch
