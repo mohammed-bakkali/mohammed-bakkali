@@ -25,8 +25,6 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohammed-bakkali&theme=onedark)](https://github.com/mohammed-bakkali)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/mohammed-bakkali)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact)](https://github.com/mohammed-bakkali)
 
 ## :sassy_man: What I Do
 
