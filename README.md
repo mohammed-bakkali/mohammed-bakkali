@@ -13,6 +13,17 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Web+Developer">
   </a>
 </p>
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/mohammed-bakkali)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact)](https://github.com/mohammed-bakkali)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammed-bakkali&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohammed-bakkali&theme=github-dark)](https://github.com/mohammed-bakkali)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohammed-bakkali&theme=onedark)](https://github.com/mohammed-bakkali)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/mohammed-bakkali)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=dark&layout=compact)](https://github.com/mohammed-bakkali)
