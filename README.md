@@ -14,10 +14,9 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
   </a>
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-bakkali&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/mohammed-bakkali)
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-bakkali&theme=algolia&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=algolia&hide_border=false&layout=compact)
 
 
