@@ -6,7 +6,7 @@
 
 Hello 👋
 
-I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling to learn more about me!
+I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco, passionate about information security. Keep scrolling to learn more about me!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
