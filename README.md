@@ -13,10 +13,9 @@ I'm Mohammed Bakkali, a Web developer based in Tanger, Morocco. Keep scrolling t
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Web+Developer">
   </a>
 </p>
-
 ![](https://github-readme-stats.vercel.app/api?username=java-msdt&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=java-msdt&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=java-msdt&theme=algolia&hide_border=false&include_all_commits
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=java-msdt&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
