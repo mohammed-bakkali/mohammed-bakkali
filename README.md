@@ -6,7 +6,9 @@
 
 Hello 👋
 
-I'm Mohammed Bakkali, a web developer based in Tangier, Morocco, with a passion for cybersecurity. Keep scrolling to learn more about me!
+I'm Mohammed Bakkali, a passionate web developer from Morocco with a keen interest in cybersecurity. Keep scrolling to discover more about my skills, experience, and projects!
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
