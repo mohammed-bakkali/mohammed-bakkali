@@ -24,17 +24,18 @@ I'm Mohammed Bakkali, a passionate web developer from Morocco with a keen intere
 
 
 
-## :sassy_man: What I Do
+## 💻 What I Do
 
-- 💻 I'm proficient in [HTML, CSS, JavaScript, React JS, Next JS, Node JS, ...].
-- 🌐 I enjoy working on web applications' front-end and back-end.
-- 🎨 I have a keen eye for design and enjoy creating user-friendly interfaces.
+- **Frontend:** HTML, CSS, JavaScript, React JS, Next JS, TypeScript
+- **Backend:** Node JS, Express JS, MongoDB, MySQL
+- **Tools:** Docker, Git, Linux, VMware
+- **Focus:** Cybersecurity, Web Application Development
 
 ## 🚀 My Projects
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/mohammed-bakkali/E-commerce-App): Fully functional e-commerce website using React JS.
+- [Project 1](https://github.com/mohammed-bakkali/E-commerce-App):  A dynamic e-commerce platform with real-time user features, secure authentication, and intuitive UI using React and Redux Toolkit.
 - [Project 2](link-to-project-2): Blog App built with MERN stack.
 - [Project 3](link-to-project-3): Brief description of the project.
 
