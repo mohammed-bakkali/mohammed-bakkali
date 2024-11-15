@@ -3,12 +3,11 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/YourUsername)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsiteColor?style=for-the-badge&logo=web&logoColor=white)](https://mohammed-bakkali.netlify.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammed-bakkali&style=for-the-badge&color=blue)
 
 Hello 👋
 
 I'm Mohammed Bakkali, a passionate web developer from Morocco with a keen interest in cybersecurity. Keep scrolling to discover more about my skills, experience, and projects!
-
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,9 +15,9 @@ I'm Mohammed Bakkali, a passionate web developer from Morocco with a keen intere
   </a>
 </p>
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-bakkali&theme=algolia&hide_border=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-bakkali&theme=algolia&hide_border=false)
+
 
 
 
