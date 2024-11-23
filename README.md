@@ -39,13 +39,13 @@ Here are some of the projects I've worked on:
 - [Project 3](link-to-project-3): Brief description of the project.
 📬 Get in Touch
 
-📧 Email: mohammedbakkali807@gmail.com
+📧 Email: mohammedbakkali807@gmail.com  
+🌐 Portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portfolio)  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-bakkali-4821a123a/)  
+🐙 GitHub: [GitHub Profile](https://github.com/mohammed-bakkali)  
+📹 YouTube: [YouTube Channel](https://www.youtube.com/@mohammedbakkali2783)  
+📷 Instagram: [Instagram Profile](https://www.instagram.com/mohammed_bk45/)  
 
-🌐 Portfolio: mohammed-bakkali.github.io/Portfolio
-🔗 LinkedIn: LinkedIn Profile
-🐙 GitHub: GitHub Profile
-📹 YouTube: YouTube Channel
-📷 Instagram: Instagram Profile
 
 Let's collaborate on exciting projects and make the web a better place!
 
