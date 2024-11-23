@@ -59,7 +59,6 @@ Let's collaborate on exciting projects and make the web a better place!
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
