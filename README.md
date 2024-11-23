@@ -37,10 +37,15 @@ Here are some of the projects I've worked on:
 - [Project 1](https://github.com/mohammed-bakkali/E-commerce-App):  A dynamic e-commerce platform with real-time user features, secure authentication, and intuitive UI using React and Redux Toolkit.
 - [Project 2](link-to-project-2): Blog App built with MERN stack.
 - [Project 3](link-to-project-3): Brief description of the project.
+📬 Get in Touch
 
-## 📬 Get in Touch
+📧 Email: mohammedbakkali807@gmail.com
 
-📧 You can reach me at [mohammedbakkali807@gmail.com](mailto:mohammedbakkali807@gmail.com).
+🌐 Portfolio: mohammed-bakkali.github.io/Portfolio
+🔗 LinkedIn: LinkedIn Profile
+🐙 GitHub: GitHub Profile
+📹 YouTube: YouTube Channel
+📷 Instagram: Instagram Profile
 
 Let's collaborate on exciting projects and make the web a better place!
 
