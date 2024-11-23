@@ -34,18 +34,13 @@ I'm Mohammed Bakkali, a passionate web developer from Morocco with a keen intere
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/mohammed-bakkali/E-commerce-App):  A dynamic e-commerce platform with real-time user features, secure authentication, and intuitive UI using React and Redux Toolkit.
-- [Project 2](link-to-project-2): Blog App built with MERN stack.
-- [Project 3](link-to-project-3): Brief description of the project.
-📬 Get in Touch
+- [E-commerce Front-End](https://github.com/mohammed-bakkali/E-commerce-App): A dynamic e-commerce platform with real-time user features, secure authentication, and an intuitive UI using React and Redux Toolkit.  
+- [E-commerce Back-End API](https://github.com/mohammed-bakkali/Ecommerce-Server): Designed and implemented a scalable back-end system for an e-commerce application using Node.js, Express.js, and MongoDB. The API provides secure endpoints for managing users, products, orders, and payments. Implemented authentication with JWT and ensured data integrity with robust error handling and database schema design.  
+- [Project 3](link-to-project-3): Brief description of the project.  
 
-📧 Email: mohammedbakkali807@gmail.com  
-🌐 Portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portfolio)  
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-bakkali-4821a123a/)  
-🐙 GitHub: [GitHub Profile](https://github.com/mohammed-bakkali)  
-📹 YouTube: [YouTube Channel](https://www.youtube.com/@mohammedbakkali2783)  
-📷 Instagram: [Instagram Profile](https://www.instagram.com/mohammed_bk45/)  
+## 📬 Get in Touch
 
+📧 You can reach me at [mohammedbakkali807@gmail.com](mailto:mohammedbakkali807@gmail.com). 
 
 Let's collaborate on exciting projects and make the web a better place!
 
