@@ -7,7 +7,7 @@
 
 Hello 👋
 
-I'm Mohammed, a web developer with a keen interest in technology. Keep scrolling to discover more about my skills, experience, and projects!
+I'm Mohammed, a web developer with a keen interest in technology. Keep scrolling to discover more !
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
