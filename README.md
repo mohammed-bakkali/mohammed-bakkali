@@ -28,16 +28,18 @@ I'm Mohammed, a web developer with a keen interest in technology. Keep scrolling
 - **Frontend:** HTML, CSS, JavaScript, React JS, Next JS, TypeScript
 - **Backend:** Node JS, Express JS, MongoDB, MySQL
 - **Tools:** Docker, Git, Linux, VMware
-- **Focus:** Cybersecurity, Web Application Development
+- **Focus:** Building secure and scalable web applications
+- 
 - **System Design & Architecture:**
   - Scalable multi-user clinic management system
-  - Layered architecture: Controllers → Services → Models → Validators → Utils
+  - Layered architecture: Routes → Controllers → Services → Models → Validators → Utils
   - Database: MongoDB (NoSQL), with transactions for atomic operations
   - Authentication: JWT with HttpOnly cookies
   - Real-time notifications: Socket.IO
+
 - **Deployment & DevOps:**
   - NGINX as reverse proxy and SSL termination
-  - Dockerized setup: frontend, backend, MongoDB, optional Redis
+  -  setup: frontend, backend, MongoDB, optional Redis
   - CI/CD ready for production deployments
 
 
