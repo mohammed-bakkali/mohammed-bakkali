@@ -29,6 +29,17 @@ I'm Mohammed, a web developer with a keen interest in technology. Keep scrolling
 - **Backend:** Node JS, Express JS, MongoDB, MySQL
 - **Tools:** Docker, Git, Linux, VMware
 - **Focus:** Cybersecurity, Web Application Development
+- **System Design & Architecture:**
+  - Scalable multi-user clinic management system
+  - Layered architecture: Controllers → Services → Models → Validators → Utils
+  - Database: MongoDB (NoSQL), with transactions for atomic operations
+  - Authentication: JWT with HttpOnly cookies
+  - Real-time notifications: Socket.IO
+- **Deployment & DevOps:**
+  - NGINX as reverse proxy and SSL termination
+  - Dockerized setup: frontend, backend, MongoDB, optional Redis
+  - CI/CD ready for production deployments
+
 
 ## 🚀 My Projects
 
