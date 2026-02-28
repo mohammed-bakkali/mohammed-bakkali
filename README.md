@@ -5,6 +5,15 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsiteColor?style=for-the-badge&logo=web&logoColor=white)](https://mohammed-bakkali.netlify.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammed-bakkali&style=for-the-badge&color=blue)
 
+![](https://img.shields.io/badge/Security-8B0000?style=for-the-badge&logo=security&logoColor=white)
+![](https://img.shields.io/badge/Pen_Testing-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+
 Hello 👋
 
 I'm Mohammed, a web developer with a keen interest in technology. Keep scrolling to discover more !
