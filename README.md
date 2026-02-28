@@ -79,6 +79,9 @@ Let's collaborate on exciting projects and make the web a better place!
 ![](https://img.shields.io/badge/Network-006400?style=for-the-badge&logo=network&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 Check out my portfolio: [Portfolio](https://mohammed-bakkali.github.io/Portflio/)
 
