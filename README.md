@@ -52,7 +52,9 @@ I'm **Mohammed**, a passionate Full-Stack Web Developer with a strong interest i
 - Kali Linux, Nmap, Wireshark, Metasploit, Burp Suite, OWASP
 
 **DevOps & Tools**
-- Docker, Git, Linux, Bash Scripting, VMware, VirtualBox, Postman
+ - Docker, Git, Linux, Bash Scripting
+ - VMware, VirtualBox, Postman
+ - CI/CD (Continuous Integration & Continuous Deployment)
 
 ---
 
